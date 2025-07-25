@@ -1,7 +1,3 @@
-Got it! Here’s a **README.md** for your **`image_classification.ipynb`**, following the same structure as your provided example:
-
----
-
 # Model Card
 
 This model was developed as part of an image classification project using a convolutional neural network (CNN). It serves as an educational exercise in building, training, and evaluating a deep learning model with PyTorch.
